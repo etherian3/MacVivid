@@ -1,0 +1,25 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.hmap
+*.xcscmblueprint
+*.xccheckout
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# MacVivid context specific
+plan/
