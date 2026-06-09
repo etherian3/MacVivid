@@ -6,6 +6,9 @@ MacVivid is a free, open-source macOS CLI tool that fixes the common "washed out
 
 ---
 
+<img width="800" height="450" alt="IMG_9236" src="https://github.com/user-attachments/assets/41dd9842-03aa-4c42-a77e-db30512b27bd" />
+
+---
 ## The Problem
 
 - External monitor colors look washed out, faded, or grayish
